@@ -1,1 +1,3 @@
-# invisible_triggers_for_diffusion
+# Code for 'Learnable invisible backdoor for diffusion models'
+
+Code coming very soon.
