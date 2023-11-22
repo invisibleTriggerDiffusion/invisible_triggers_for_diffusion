@@ -1,7 +1,7 @@
 # Code for 'Learnable invisible backdoor for diffusion models'
 
 ## Environment
-Python 3.9.15
+Python 3.9.15 \
 Pytorch 1.12.1, Cuda 11.6
 
 ## Install packages
