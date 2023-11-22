@@ -9,7 +9,7 @@ Pytorch 1.12.1, Cuda 11.6
 pip install -r ./requirements.txt
 ```
 
-## Code for Backdooring Unconditional diffusion models with invisible triggers
+## Code for backdooring unconditional diffusion models with invisible triggers
 
 The code for unconditional generation is modified from [BadDiffusion](https://github.com/IBM/BadDiffusion). Thanks for their excellent work!
 
