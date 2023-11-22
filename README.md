@@ -21,7 +21,7 @@ python main_optimized.py --project default --mode train+measure --dataset CIFAR1
 
 ## Code for backdooring conditional diffusion models with invisible triggers
 
-The code for conditional generation is modified mainly based on [OpenAI GLIDE](https://github.com/openai/glide-text2im). Some code is modified from [BadDiffusion](https://github.com/IBM/BadDiffusion) and [Free-form mask generation](https://github.com/JiahuiYu/generative_inpainting). Thanks for their excellent works!
+The code for conditional generation is modified mainly based on [OpenAI GLIDE](https://github.com/openai/glide-text2im). Some code is modified from [BadDiffusion](https://github.com/IBM/BadDiffusion) and [Free-form mask generation](https://github.com/JiahuiYu/generative_inpainting, https://github.com/Janspiry/Palette-Image-to-Image-Diffusion-Models). Thanks for their excellent works!
 
 ### Environment
 Since the codebase for conditional generation is different from unconditional generation, please follow the guide in [GLIDE](https://github.com/openai/glide-text2im) to setup the environment. Then run
