@@ -30,7 +30,7 @@ cd glide
 ```
 
 ### Dataset
-The conditional generation uses MS COCO 2014 dataset. Please download the dataset from the website. The default path for the dataset is <../data/train2014>, and you can modify it in <poison_data.py>.
+The conditional generation uses MS COCO 2014 dataset. Please download the dataset from the website. The default path for the dataset is ```../data/train2014```, and you can modify it in ```poison_data.py```.
 
 
 To train a conditional backdoored model with invisible triggers on MS COCO, run:
